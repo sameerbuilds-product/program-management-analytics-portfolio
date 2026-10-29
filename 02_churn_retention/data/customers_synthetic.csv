@@ -1,0 +1,301 @@
+customer_id,segment,tenure_band,monthly_orders,churned
+CUST-0001,Frequent,0-3 months,13,0
+CUST-0002,Occasional,0-3 months,6,0
+CUST-0003,Occasional,4-6 months,7,1
+CUST-0004,Low Frequency,4-6 months,0,0
+CUST-0005,Frequent,12+ months,12,0
+CUST-0006,Occasional,0-3 months,6,0
+CUST-0007,Frequent,7-12 months,13,0
+CUST-0008,Occasional,7-12 months,4,0
+CUST-0009,Frequent,0-3 months,13,0
+CUST-0010,Low Frequency,7-12 months,2,0
+CUST-0011,Frequent,0-3 months,14,0
+CUST-0012,Occasional,0-3 months,6,1
+CUST-0013,Low Frequency,7-12 months,0,1
+CUST-0014,Occasional,0-3 months,6,1
+CUST-0015,Occasional,4-6 months,5,0
+CUST-0016,Occasional,4-6 months,5,0
+CUST-0017,Occasional,4-6 months,4,0
+CUST-0018,Low Frequency,0-3 months,0,0
+CUST-0019,Occasional,12+ months,7,0
+CUST-0020,Low Frequency,12+ months,2,0
+CUST-0021,Frequent,4-6 months,15,0
+CUST-0022,Frequent,12+ months,16,0
+CUST-0023,Low Frequency,7-12 months,1,1
+CUST-0024,Frequent,12+ months,20,1
+CUST-0025,Low Frequency,0-3 months,2,1
+CUST-0026,Occasional,7-12 months,3,0
+CUST-0027,Occasional,4-6 months,7,0
+CUST-0028,Low Frequency,0-3 months,2,0
+CUST-0029,Frequent,0-3 months,10,0
+CUST-0030,Frequent,12+ months,9,0
+CUST-0031,Occasional,12+ months,5,0
+CUST-0032,Occasional,7-12 months,4,0
+CUST-0033,Low Frequency,7-12 months,0,0
+CUST-0034,Low Frequency,12+ months,2,0
+CUST-0035,Occasional,4-6 months,5,0
+CUST-0036,Low Frequency,12+ months,0,1
+CUST-0037,Occasional,12+ months,5,0
+CUST-0038,Frequent,7-12 months,11,0
+CUST-0039,Occasional,4-6 months,7,0
+CUST-0040,Frequent,7-12 months,9,0
+CUST-0041,Low Frequency,0-3 months,0,1
+CUST-0042,Frequent,12+ months,11,1
+CUST-0043,Frequent,4-6 months,12,0
+CUST-0044,Frequent,7-12 months,18,0
+CUST-0045,Frequent,7-12 months,15,0
+CUST-0046,Occasional,0-3 months,3,1
+CUST-0047,Low Frequency,0-3 months,0,0
+CUST-0048,Occasional,7-12 months,6,1
+CUST-0049,Low Frequency,12+ months,0,0
+CUST-0050,Frequent,7-12 months,11,0
+CUST-0051,Low Frequency,4-6 months,1,0
+CUST-0052,Occasional,12+ months,4,0
+CUST-0053,Low Frequency,7-12 months,0,1
+CUST-0054,Occasional,12+ months,7,0
+CUST-0055,Occasional,7-12 months,5,0
+CUST-0056,Occasional,12+ months,5,0
+CUST-0057,Frequent,12+ months,20,0
+CUST-0058,Low Frequency,7-12 months,1,1
+CUST-0059,Occasional,4-6 months,3,0
+CUST-0060,Frequent,7-12 months,13,0
+CUST-0061,Low Frequency,12+ months,1,0
+CUST-0062,Low Frequency,12+ months,0,0
+CUST-0063,Low Frequency,7-12 months,0,0
+CUST-0064,Low Frequency,12+ months,1,1
+CUST-0065,Occasional,12+ months,5,0
+CUST-0066,Frequent,4-6 months,15,0
+CUST-0067,Frequent,12+ months,15,1
+CUST-0068,Low Frequency,7-12 months,0,0
+CUST-0069,Frequent,0-3 months,13,0
+CUST-0070,Frequent,12+ months,13,0
+CUST-0071,Frequent,7-12 months,13,0
+CUST-0072,Frequent,0-3 months,17,0
+CUST-0073,Frequent,12+ months,17,0
+CUST-0074,Occasional,4-6 months,3,0
+CUST-0075,Frequent,7-12 months,13,1
+CUST-0076,Low Frequency,0-3 months,2,0
+CUST-0077,Frequent,4-6 months,14,0
+CUST-0078,Frequent,0-3 months,12,0
+CUST-0079,Occasional,7-12 months,4,0
+CUST-0080,Frequent,4-6 months,10,0
+CUST-0081,Frequent,7-12 months,11,0
+CUST-0082,Low Frequency,0-3 months,1,0
+CUST-0083,Low Frequency,4-6 months,2,0
+CUST-0084,Low Frequency,7-12 months,2,1
+CUST-0085,Frequent,4-6 months,16,0
+CUST-0086,Low Frequency,0-3 months,1,1
+CUST-0087,Low Frequency,0-3 months,2,0
+CUST-0088,Frequent,4-6 months,16,0
+CUST-0089,Occasional,12+ months,7,0
+CUST-0090,Frequent,12+ months,13,0
+CUST-0091,Frequent,7-12 months,19,0
+CUST-0092,Frequent,0-3 months,9,0
+CUST-0093,Low Frequency,12+ months,1,0
+CUST-0094,Occasional,4-6 months,6,1
+CUST-0095,Frequent,0-3 months,12,1
+CUST-0096,Frequent,7-12 months,20,0
+CUST-0097,Frequent,7-12 months,13,0
+CUST-0098,Low Frequency,4-6 months,1,1
+CUST-0099,Occasional,4-6 months,6,0
+CUST-0100,Low Frequency,12+ months,0,1
+CUST-0101,Frequent,7-12 months,9,0
+CUST-0102,Occasional,7-12 months,7,0
+CUST-0103,Low Frequency,7-12 months,1,0
+CUST-0104,Occasional,0-3 months,3,1
+CUST-0105,Low Frequency,4-6 months,2,0
+CUST-0106,Low Frequency,7-12 months,2,0
+CUST-0107,Occasional,7-12 months,4,0
+CUST-0108,Occasional,7-12 months,7,1
+CUST-0109,Frequent,7-12 months,16,0
+CUST-0110,Occasional,0-3 months,4,0
+CUST-0111,Frequent,0-3 months,16,0
+CUST-0112,Occasional,0-3 months,7,1
+CUST-0113,Occasional,4-6 months,6,0
+CUST-0114,Occasional,0-3 months,7,1
+CUST-0115,Low Frequency,0-3 months,2,0
+CUST-0116,Occasional,7-12 months,5,0
+CUST-0117,Occasional,12+ months,7,0
+CUST-0118,Low Frequency,7-12 months,0,0
+CUST-0119,Occasional,0-3 months,5,0
+CUST-0120,Frequent,7-12 months,10,0
+CUST-0121,Occasional,7-12 months,5,0
+CUST-0122,Occasional,0-3 months,6,0
+CUST-0123,Occasional,0-3 months,7,0
+CUST-0124,Low Frequency,4-6 months,0,0
+CUST-0125,Low Frequency,0-3 months,1,0
+CUST-0126,Low Frequency,4-6 months,2,0
+CUST-0127,Frequent,7-12 months,9,0
+CUST-0128,Low Frequency,12+ months,2,0
+CUST-0129,Occasional,12+ months,5,0
+CUST-0130,Occasional,0-3 months,7,0
+CUST-0131,Occasional,7-12 months,7,0
+CUST-0132,Low Frequency,0-3 months,2,1
+CUST-0133,Frequent,7-12 months,16,0
+CUST-0134,Occasional,7-12 months,6,0
+CUST-0135,Occasional,7-12 months,7,0
+CUST-0136,Frequent,4-6 months,16,0
+CUST-0137,Frequent,0-3 months,11,0
+CUST-0138,Frequent,7-12 months,8,0
+CUST-0139,Occasional,0-3 months,7,0
+CUST-0140,Low Frequency,12+ months,1,1
+CUST-0141,Low Frequency,12+ months,1,0
+CUST-0142,Low Frequency,12+ months,0,1
+CUST-0143,Low Frequency,4-6 months,0,0
+CUST-0144,Low Frequency,7-12 months,2,0
+CUST-0145,Low Frequency,0-3 months,1,1
+CUST-0146,Frequent,7-12 months,10,0
+CUST-0147,Low Frequency,4-6 months,0,0
+CUST-0148,Occasional,4-6 months,4,1
+CUST-0149,Frequent,4-6 months,20,0
+CUST-0150,Low Frequency,12+ months,2,0
+CUST-0151,Frequent,0-3 months,16,1
+CUST-0152,Occasional,7-12 months,5,0
+CUST-0153,Occasional,7-12 months,5,0
+CUST-0154,Occasional,7-12 months,3,0
+CUST-0155,Low Frequency,4-6 months,0,0
+CUST-0156,Occasional,7-12 months,3,0
+CUST-0157,Frequent,7-12 months,16,0
+CUST-0158,Frequent,4-6 months,12,0
+CUST-0159,Frequent,12+ months,20,1
+CUST-0160,Low Frequency,0-3 months,2,1
+CUST-0161,Low Frequency,0-3 months,2,0
+CUST-0162,Low Frequency,0-3 months,1,0
+CUST-0163,Frequent,0-3 months,8,0
+CUST-0164,Frequent,7-12 months,12,0
+CUST-0165,Occasional,4-6 months,6,1
+CUST-0166,Low Frequency,0-3 months,2,0
+CUST-0167,Frequent,7-12 months,13,0
+CUST-0168,Low Frequency,7-12 months,1,0
+CUST-0169,Frequent,12+ months,15,0
+CUST-0170,Low Frequency,7-12 months,1,0
+CUST-0171,Low Frequency,12+ months,0,0
+CUST-0172,Frequent,7-12 months,8,0
+CUST-0173,Frequent,7-12 months,12,0
+CUST-0174,Frequent,7-12 months,14,0
+CUST-0175,Occasional,0-3 months,3,0
+CUST-0176,Frequent,7-12 months,20,0
+CUST-0177,Low Frequency,0-3 months,0,1
+CUST-0178,Occasional,7-12 months,4,0
+CUST-0179,Low Frequency,0-3 months,1,1
+CUST-0180,Low Frequency,4-6 months,0,0
+CUST-0181,Occasional,4-6 months,4,0
+CUST-0182,Low Frequency,12+ months,1,0
+CUST-0183,Low Frequency,0-3 months,1,1
+CUST-0184,Occasional,12+ months,3,0
+CUST-0185,Occasional,0-3 months,7,1
+CUST-0186,Frequent,12+ months,19,0
+CUST-0187,Low Frequency,7-12 months,2,1
+CUST-0188,Occasional,0-3 months,7,0
+CUST-0189,Occasional,0-3 months,7,0
+CUST-0190,Low Frequency,0-3 months,1,1
+CUST-0191,Frequent,0-3 months,20,1
+CUST-0192,Occasional,7-12 months,4,0
+CUST-0193,Frequent,7-12 months,19,1
+CUST-0194,Frequent,12+ months,9,0
+CUST-0195,Low Frequency,7-12 months,1,0
+CUST-0196,Frequent,4-6 months,8,0
+CUST-0197,Occasional,7-12 months,5,0
+CUST-0198,Low Frequency,0-3 months,2,0
+CUST-0199,Low Frequency,12+ months,0,0
+CUST-0200,Occasional,4-6 months,6,1
+CUST-0201,Occasional,12+ months,4,0
+CUST-0202,Frequent,4-6 months,10,0
+CUST-0203,Low Frequency,12+ months,1,0
+CUST-0204,Occasional,4-6 months,4,1
+CUST-0205,Frequent,12+ months,11,0
+CUST-0206,Low Frequency,0-3 months,2,1
+CUST-0207,Frequent,0-3 months,16,0
+CUST-0208,Low Frequency,7-12 months,0,1
+CUST-0209,Occasional,7-12 months,4,0
+CUST-0210,Low Frequency,7-12 months,2,0
+CUST-0211,Low Frequency,4-6 months,1,0
+CUST-0212,Occasional,0-3 months,4,1
+CUST-0213,Low Frequency,7-12 months,0,0
+CUST-0214,Low Frequency,0-3 months,2,0
+CUST-0215,Occasional,0-3 months,4,0
+CUST-0216,Low Frequency,0-3 months,2,1
+CUST-0217,Low Frequency,12+ months,0,0
+CUST-0218,Occasional,4-6 months,7,0
+CUST-0219,Low Frequency,12+ months,0,1
+CUST-0220,Frequent,12+ months,12,0
+CUST-0221,Low Frequency,0-3 months,2,0
+CUST-0222,Occasional,7-12 months,4,0
+CUST-0223,Frequent,4-6 months,10,0
+CUST-0224,Low Frequency,4-6 months,1,0
+CUST-0225,Occasional,12+ months,4,0
+CUST-0226,Frequent,7-12 months,13,0
+CUST-0227,Low Frequency,12+ months,2,1
+CUST-0228,Frequent,12+ months,19,0
+CUST-0229,Frequent,12+ months,11,0
+CUST-0230,Low Frequency,12+ months,0,0
+CUST-0231,Frequent,7-12 months,10,0
+CUST-0232,Frequent,0-3 months,13,1
+CUST-0233,Occasional,4-6 months,7,0
+CUST-0234,Frequent,7-12 months,18,1
+CUST-0235,Low Frequency,12+ months,0,0
+CUST-0236,Low Frequency,7-12 months,0,0
+CUST-0237,Low Frequency,4-6 months,0,0
+CUST-0238,Occasional,12+ months,6,0
+CUST-0239,Low Frequency,7-12 months,0,0
+CUST-0240,Low Frequency,7-12 months,1,0
+CUST-0241,Low Frequency,4-6 months,1,0
+CUST-0242,Occasional,4-6 months,3,1
+CUST-0243,Frequent,4-6 months,20,0
+CUST-0244,Low Frequency,12+ months,1,0
+CUST-0245,Occasional,12+ months,6,0
+CUST-0246,Frequent,7-12 months,15,1
+CUST-0247,Frequent,7-12 months,18,0
+CUST-0248,Low Frequency,4-6 months,0,1
+CUST-0249,Low Frequency,4-6 months,2,0
+CUST-0250,Occasional,4-6 months,7,1
+CUST-0251,Frequent,7-12 months,15,0
+CUST-0252,Frequent,12+ months,11,0
+CUST-0253,Frequent,4-6 months,9,0
+CUST-0254,Frequent,4-6 months,20,0
+CUST-0255,Occasional,4-6 months,7,0
+CUST-0256,Low Frequency,12+ months,0,0
+CUST-0257,Low Frequency,0-3 months,1,0
+CUST-0258,Occasional,0-3 months,4,0
+CUST-0259,Occasional,7-12 months,3,0
+CUST-0260,Frequent,4-6 months,13,0
+CUST-0261,Occasional,0-3 months,5,0
+CUST-0262,Frequent,4-6 months,15,0
+CUST-0263,Occasional,12+ months,5,0
+CUST-0264,Low Frequency,0-3 months,0,0
+CUST-0265,Low Frequency,12+ months,0,1
+CUST-0266,Frequent,12+ months,15,0
+CUST-0267,Low Frequency,0-3 months,2,1
+CUST-0268,Occasional,4-6 months,7,0
+CUST-0269,Frequent,7-12 months,11,0
+CUST-0270,Low Frequency,0-3 months,1,1
+CUST-0271,Occasional,7-12 months,3,1
+CUST-0272,Low Frequency,12+ months,2,0
+CUST-0273,Occasional,7-12 months,5,0
+CUST-0274,Occasional,12+ months,6,0
+CUST-0275,Frequent,7-12 months,10,0
+CUST-0276,Frequent,7-12 months,9,0
+CUST-0277,Occasional,4-6 months,5,0
+CUST-0278,Occasional,4-6 months,5,0
+CUST-0279,Occasional,12+ months,4,1
+CUST-0280,Occasional,0-3 months,3,1
+CUST-0281,Frequent,0-3 months,15,1
+CUST-0282,Frequent,4-6 months,9,1
+CUST-0283,Occasional,7-12 months,4,0
+CUST-0284,Frequent,4-6 months,10,1
+CUST-0285,Occasional,7-12 months,6,0
+CUST-0286,Frequent,7-12 months,19,0
+CUST-0287,Low Frequency,4-6 months,1,0
+CUST-0288,Occasional,7-12 months,6,0
+CUST-0289,Occasional,0-3 months,6,1
+CUST-0290,Low Frequency,0-3 months,1,1
+CUST-0291,Low Frequency,7-12 months,1,1
+CUST-0292,Occasional,4-6 months,4,0
+CUST-0293,Low Frequency,0-3 months,0,1
+CUST-0294,Occasional,7-12 months,4,1
+CUST-0295,Low Frequency,7-12 months,2,0
+CUST-0296,Low Frequency,4-6 months,1,1
+CUST-0297,Frequent,0-3 months,12,0
+CUST-0298,Low Frequency,4-6 months,0,1
+CUST-0299,Low Frequency,0-3 months,0,1
+CUST-0300,Occasional,0-3 months,3,1

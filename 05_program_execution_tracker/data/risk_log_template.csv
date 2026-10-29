@@ -1,0 +1,4 @@
+risk_id,risk,category,probability,impact,severity,owner,mitigation,due_date,status
+R-01,Source data may arrive late,Data,Medium,High,High,Data Lead,Agree delivery SLA and escalation path,2026-11-05,Open
+R-02,Teams may interpret KPI definitions differently,Governance,Medium,Medium,Medium,Program Manager,Publish KPI dictionary and sign-off,2026-11-07,Open
+R-03,Pilot results may be affected by demand mix,Measurement,Medium,High,High,Analytics Lead,Compare equivalent time windows and segment by demand,2026-11-14,Open

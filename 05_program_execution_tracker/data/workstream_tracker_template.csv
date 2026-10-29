@@ -1,0 +1,4 @@
+workstream_id,workstream,deliverable,owner,priority,status,start_date,due_date,dependency,success_metric,blocker,next_action
+WS-01,Data readiness,Validate source data,Data Lead,High,In Progress,2026-11-02,2026-11-06,Source access,Data completeness >= 98%,Missing fields,Confirm data owner
+WS-02,Operations pilot,Document pilot SOP,Ops Lead,High,Not Started,2026-11-04,2026-11-11,Data readiness,100% pilot shifts briefed,Pending review,Schedule SOP review
+WS-03,Reporting,Publish KPI scorecard,Analytics Lead,Medium,Not Started,2026-11-06,2026-11-13,Metric definitions,Report delivered by 10 AM,Definition alignment,Agree KPI dictionary
